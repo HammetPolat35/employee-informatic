@@ -1,0 +1,4 @@
+Salaried Employee,Veli,İhsan,1,10000.0
+Commission Rate Employee,j,l,3,3.0,0.7
+Hourly Employee,ali,candan,6,1.0,4.0
+Hourly Employee,hammet,polat,7,30000,100
